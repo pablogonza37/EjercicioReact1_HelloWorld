@@ -1,8 +1,19 @@
-# React + Vite
+# React Hello World
+Este proyecto consiste en una aplicación web básica desarrollada con React que muestra en pantalla el mensaje "Hello World".
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descripción
+Este proyecto es una introducción simple al desarrollo web con React. El objetivo principal es familiarizarse con la creación de componentes y la renderización en React.
 
-Currently, two official plugins are available:
+## Instalación
+Para ejecutar esta aplicación en tu entorno local, sigue estos pasos:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Clona este repositorio en tu máquina local utilizando Git: git clone https://github.com/pablogonza37/EjercicioReact1_HelloWorld.git
+- Navega al directorio del proyecto: cd react-hello-world
+
+- Instala las dependencias del proyecto utilizando npm o yarn: npm install o yarn install
+
+- Una vez completada la instalación de las dependencias, puedes iniciar la aplicación:npm start o yarn start
+
+
+## Uso
+Después de iniciar la aplicación, verás el mensaje "Hello World" en tu navegador web. ¡Eso es todo lo que hace esta aplicación!
