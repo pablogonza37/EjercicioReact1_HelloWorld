@@ -4,6 +4,10 @@ Este proyecto consiste en una aplicación web básica desarrollada con React que
 ## Descripción
 Este proyecto es una introducción simple al desarrollo web con React. El objetivo principal es familiarizarse con la creación de componentes y la renderización en React.
 
+## Demo
+
+Puedes ver una demostración del proyecto en vivo en [Netlify](https://ejercicioreact1-helloworld-7961c1.netlify.app/).
+
 ## Instalación
 Para ejecutar esta aplicación en tu entorno local, sigue estos pasos:
 
